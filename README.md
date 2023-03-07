@@ -1,1 +1,1 @@
-# plugin-repoosssd
+# plugin-repoosssds
